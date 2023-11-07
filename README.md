@@ -6,7 +6,7 @@
 In the second project of this nanodegree, we will develop a model to classify messages sent during disasters. There are 36 predefined categories such as 'Child alone', 'Aid related', or 'Medical help'. This classification is crucial for directing these messages to the appropriate disaster relief agencies. The project entails data preparation and the construction of the actual model. The data is sourced from Appen (formerly Figure 8) and comprises authentic messages.
 
 The end result will be a web application that takes a message as input and provides the corresponding classification as output:
-![alt text](udacity_webapp_dr.png.png "Screenshot of the Apllication")
+![Alternativer Text](udacity_webapp_dr.png)
 
 
 ### The Files
