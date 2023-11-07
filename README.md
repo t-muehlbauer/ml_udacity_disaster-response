@@ -30,7 +30,7 @@ Notice: The .ipynb files are just for preparing the data and are not necessary t
 
 4. Run your web app: `python run.py`
 
-5. Click the `PREVIEW` button in the IDE or open the to open http://0.0.0.0:3000/
+5. Click the `PREVIEW` button in the IDE or open http://0.0.0.0:3000/
 
 ## Licensing, Authors, Acknowledgements
 Thanks to Appen (formally Figure 8) for providing the data. Feel free to use the content while citing me,Udacity and/or Appen.
