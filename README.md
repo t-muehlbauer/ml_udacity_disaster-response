@@ -6,7 +6,8 @@
 In the second project of this nanodegree, we will develop a model to classify messages sent during disasters. There are 36 predefined categories such as 'Child alone', 'Aid related', or 'Medical help'. This classification is crucial for directing these messages to the appropriate disaster relief agencies. The project entails data preparation and the construction of the actual model. The data is sourced from Appen (formerly Figure 8) and comprises authentic messages.
 
 The end result will be a web application that takes a message as input and provides the corresponding classification as output:
-![Screenshot of the Web Application](//screenshots/udacity_webapp_dr.png)
+![alt text](udacity_webapp_dr.png.png "Screenshot of the Apllication")
+
 
 ### The Files
 - app: This folder contains the templates and run.py for the web application.
@@ -15,7 +16,7 @@ The end result will be a web application that takes a message as input and provi
 
 Notice: The .ipynb files are just for preparing the data and are not necessary to run this project.
 
-### Getting Started:
+## Getting Started:
 1. Clone the project. It has to run with Python 3 with the following libraries: numpy, pandas, sqlalchemy, re, NLTK, pickle, Sklearn, plotly and flask.
 
 2. Run the following commands in the project's root directory to set up your database and model.
